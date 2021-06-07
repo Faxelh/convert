@@ -9,9 +9,9 @@
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-v2021.1.1-green.svg?"></a>
 <a href="https://github.com/threat0/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/threat0?color=blue"></a>
-<a href="https://github.com/threat0/insta_down/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/threat0/convert??color=red"></a>
-<a href="https://github.com/threat0/insta_down/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/threat0/convert??color=red"></a>
-<a href="https://github.com/threat0/insta_down/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/threat0/convert?label=Watchers&color=blue"></a>
+<a href="https://github.com/threat0/convert/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/threat0/convert??color=red"></a>
+<a href="https://github.com/threat0/convert/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/threat0/convert??color=red"></a>
+<a href="https://github.com/threat0/convert/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/threat0/convert?label=Watchers&color=blue"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
